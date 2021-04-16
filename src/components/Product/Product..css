@@ -7,9 +7,16 @@
 .product-name{
     color: #0a48cc;
     font-weight: 500;
+    margin: 10px 20px 20px 0;
 }
 .product-info{
     margin: 0 0 0 50px;
+}
+.product-info p{
+    margin: 5px 0;
+}
+.product-info button{
+    margin-top: 25px;
 }
 .add-cart-btn{
     width: 200px;
